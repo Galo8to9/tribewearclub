@@ -1,3 +1,5 @@
+"use client"
+
 import React from 'react'
 import Image from 'next/image'
 
@@ -65,9 +67,8 @@ const page = () => {
         </div>
 
         <div className="flex h-32 md:h-14">
-          
+    
         </div>
-
       </div>
     </div>
   )
